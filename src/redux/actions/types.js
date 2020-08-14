@@ -1,0 +1,8 @@
+// Auth
+export const SET_AUTH_LOADING = 'SET_AUTH_LOADING';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const SET_AUTH_FALSE_LOADING = 'SET_AUTH_FALSE_LOADING';
+
+// Cars List
+export const GET_CARS_LOADING = 'GET_CARS_LOADING';
+export const GET_CARS_LIST = 'GET_CARS_LIST';
